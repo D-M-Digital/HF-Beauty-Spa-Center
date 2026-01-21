@@ -24,7 +24,7 @@ const Contact: React.FC = () => {
         : 'Kordonboyu Street No: 45, Kyrenia, TRNC',
       phone: '+90 392 815 00 00',
       email: 'girne@hfbeauty.com',
-      mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3259.9!2d33.3!3d35.3!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDE4JzAwLjAiTiAzM8KwMTgnMDAuMCJF!5e0!3m2!1sen!2s!4v1!5m2!1sen!2s',
+      mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3259.9!2d33.3199558!3d35.3373477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14de6d8129c11cb7%3A0xa6510524b7b10baf!2sHF%20Beauty%26Spa%20Center!5e0!3m2!1sen!2s!4v1705708800000!5m2!1sen!2s',
     },
     {
       name: t('contact.lapta'),
@@ -33,7 +33,7 @@ const Contact: React.FC = () => {
         : 'Coastal Road No: 78, Lapta, TRNC',
       phone: '+90 392 821 00 00',
       email: 'lapta@hfbeauty.com',
-      mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3259.9!2d33.1!3d35.3!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDE4JzAwLjAiTiAzM8KwMDYnMDAuMCJF!5e0!3m2!1sen!2s!4v1!5m2!1sen!2s',
+      mapSrc: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3259.9!2d33.1858261!3d35.3438105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14de0d8f5aecf7df%3A0x5f5bf24091b05e65!2sHF%20Spa%20Rose%20garden!5e0!3m2!1sen!2s!4v1705708800000!5m2!1sen!2s',
     },
   ];
 
